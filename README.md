@@ -1,1 +1,1 @@
-# <center> JavaScript Notes </center>
+# <center> Python Notes </center>
