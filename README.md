@@ -7,3 +7,4 @@ This is a new projects so that is why there is not a lot of content
 
 This repository contains
 - [JavaScript Notes](https://github.com/rene-roid/Study/tree/JavaScript)
+- [Python](https://github.com/rene-roid/Study/tree/Python)
