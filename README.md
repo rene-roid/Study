@@ -6,4 +6,4 @@ A repository where I save my progress of making my brain bigger
 This is a new projects so that is why there is not a lot of content
 
 This repository contains
-- [x] (JavaScript Notes)[https://github.com/rene-roid/Study/tree/JavaScript]
+- (JavaScript Notes)[https://github.com/rene-roid/Study/tree/JavaScript]
